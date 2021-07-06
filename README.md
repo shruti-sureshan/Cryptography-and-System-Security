@@ -8,4 +8,6 @@ Cryptography is the study of secure communications techniques that allow only th
 •	Caesar cipher<br/>
 •	Diffie hellman <br/>
 •	Digital Signature<br/>
-•	Multiplicative Cipher
+•	Multiplicative Cipher<br/>
+
+Technologies used: C, JAVA 8, Eclipse IDE
