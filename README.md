@@ -12,4 +12,4 @@ Cryptography is the study of secure communications techniques that allow only th
 • MD5<br/>
 • SHA<br/>
 
-Technologies used: C, JAVA 8, Eclipse IDE
+Technologies used: C, JAVA 8, Eclipse IDE, Python
