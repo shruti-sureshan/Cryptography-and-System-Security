@@ -1,5 +1,3 @@
-## q11
-
 def decrypt(i1,i2,j1,j2,mat):
     if i1==j1:
         i2=(i2-1)%5
